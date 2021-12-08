@@ -14,7 +14,7 @@
            aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
          <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
            <div class="navbar-nav"><a class="nav-item nav-link active" href="<?= BASE_URL; ?>">Home <span class="sr-only">(current)</span></a><a class="nav-item nav-link"
-               href="<?= BASE_URL; ?>/user">User</a><a class="nav-item nav-link" href="<?=BASE_URL?>/user/profile">Profile</a></div>
+               href="<?= BASE_URL; ?>/user">User</a><a class="nav-item nav-link" href="<?=BASE_URL?>/blog">Blog</a></div>
          </div>
        </div>
      </nav>
